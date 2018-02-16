@@ -9,10 +9,57 @@
 	],
 "creatorBuild": "26268",
 "files": {
+	"\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/.gitattributes",
+		"oF": 0
+		},
 	"\/docs": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
+	"\/src\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 7733,
+		"oA": 0,
+		"oAP": "\/docs\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 20983,
+		"oA": 0,
+		"oAP": "\/docs\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 7516,
+		"oA": 0,
+		"oAP": "\/docs\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/browserconfig.xml",
 		"oF": 0
 		},
 	"\/src\/css\/_bulma.scss": {
@@ -54,6 +101,35 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/src\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1105,
+		"oA": 0,
+		"oAP": "\/docs\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1736,
+		"oA": 0,
+		"oAP": "\/docs\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/favicon.ico",
+		"oF": 0
+		},
 	"\/src\/img\/blank.png": {
 		"ft": 32768,
 		"iS": 192656,
@@ -71,6 +147,17 @@
 		"oA": 0,
 		"oAP": "\/docs\/img\/controlwar.png",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/domain-auction.png": {
+		"ft": 32768,
+		"iS": 2124762,
+		"oA": 2,
+		"oAP": "\/docs\/img\/domain-auction.png",
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -191,6 +278,34 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
+		},
+	"\/src\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 6884,
+		"oA": 0,
+		"oAP": "\/docs\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/site.webmanifest",
+		"oF": 0
 		}
 	},
 "hooks": [
