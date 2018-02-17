@@ -59,6 +59,7 @@ img {
 }
 
 .auction {
+  position: relative;
   max-width: 500px;
   min-width: 300px;
   text-align: center;
@@ -75,6 +76,20 @@ img {
       border-width: 0;
     }
   }
+}
+
+.countdown {
+  position: absolute;
+  bottom: 4.5rem;
+  left: .8rem;
+  background-color: #212529;
+  color: #fff;
+  padding: 5px 14px 7px;
+  text-align: left;
+  font-family: monospace;
+  font-weight: bold;
+  line-height: 1.4em;
+  border-radius: 3px;
 }
 
 .footer {
