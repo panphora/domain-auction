@@ -86,8 +86,8 @@ img {
   color: #fff;
   padding: 5px 14px 7px;
   text-align: left;
-  font-family: monospace;
-  font-weight: bold;
+  font-feature-settings: "tnum"; 
+  font-variant-numeric: tabular-nums;
   line-height: 1.4em;
   border-radius: 3px;
 }

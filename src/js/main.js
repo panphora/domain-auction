@@ -13,7 +13,7 @@ function addCountdownToElement (msNum, selectorStringArr) {
     var element = document.querySelector(selectorString);
 
     setInterval(function () {
-      element.innerHTML = "Auction ends in<br>" + getTimeLeft(msNum);
+      element.innerHTML = "Auction ends in<br><b>" + getTimeLeft(msNum) + "</b>";
     }, 1000); 
   });
 }
