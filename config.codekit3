@@ -258,6 +258,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/src\/img\/selfkick.png": {
+		"ft": 32768,
+		"iS": 333127,
+		"oA": 0,
+		"oAP": "\/docs\/img\/selfkick.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/wordgrid.png": {
 		"ft": 32768,
 		"iS": 311113,
