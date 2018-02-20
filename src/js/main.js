@@ -47,14 +47,6 @@ function msToTime(duration) {
   return timeString;
 }
 
-// 1 day: 1518925275165
-// 2 day: 1519011678316
-// 3 day: 1519098081524
-
-// 1 day diff: 85004696
-// 2 day diff: 171303733
-// 3 day diff: 257698011
-
 
 
 
