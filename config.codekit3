@@ -7,7 +7,7 @@
 		"uuidString": "66526D78-E68A-4155-8CFD-FAAD74C843C5"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -345,7 +345,8 @@
 	"creationDate": 540495171,
 	"displayValue": "domain-auction",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-soon"
+	"iconImageName": "\/src\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2148,6 +2149,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
